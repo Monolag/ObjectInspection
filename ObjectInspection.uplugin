@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ObjectInspection",
+	"Description": "Toggle light, trigger sounds and inspect objects!",
+	"Category": "Other",
+	"CreatedBy": "Monolag",
+	"CreatedByURL": "https://www.unrealengine.com/marketplace/en-US/profile/Monolag",
+	"DocsURL": "https://docs.google.com/document/d/1muHZTkhv8ADOCPYuYqPt54vyfpFxFM6uLeo_zVsMOUc/edit?usp=sharing",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discordapp.com/invite/nTfvKZT",
+	"EngineVersion": "4.24.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ObjectInspection",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
